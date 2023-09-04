@@ -12,5 +12,6 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 ### Google Maps API - Restaurants
 
 #### Built With:
-* [![Python][Python]][Python-url]
+
+[![Python][Python]][Python-url]
 * [![React][React.js]][React-url]
