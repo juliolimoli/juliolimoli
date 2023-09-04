@@ -9,6 +9,6 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 
 ## Projects:
 
-### Google Maps API - Restaurants
+### [Google Maps API - Restaurants](https://github.com/juliolimoli/data-cloud-project-scheduler)
 
 #### Built With:
