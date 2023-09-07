@@ -13,7 +13,7 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 ### Languages
 
 #### Python
-<img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="32px" height="32px">
+<img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="64px" height="64px">
 
 #### JavaScript
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
