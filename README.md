@@ -55,7 +55,7 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
  <div>
  <h2>Projects:
 
-  <a href="https://github.com/juliolimoli/data-cloud-project-scheduler"><h3>Google Maps API - Restaurants</h3></a>
+  <h3><a href="https://github.com/juliolimoli/data-cloud-project-scheduler">Google Maps API - Restaurants</a></h3>
 
    <h4> Built With:</h4>
    <div style="display: flex; justify-content: space-between; align-items: center;">
