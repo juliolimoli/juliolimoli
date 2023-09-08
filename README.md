@@ -40,22 +40,17 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 ### Data Engineering Tools and Services
 
 #### Hadoop
-![Hadoop](https://hadoop.apache.org/images/hadoop-logo.jpg)
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 
 #### Apache Airflow
-![Airflow](https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png)
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
 
 ### Data Science Libraries and Packages
-
-### Pandas
-![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg)
-
-### Matplotlib
-![Matplotlib](https://matplotlib.org/_images/sphx_glr_logos2_001.png)
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
 
 ## Cloud Platforms
-
-### AWS
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
