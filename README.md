@@ -55,8 +55,14 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
  <div>
  <h2>Projects:
 
-  ### [Google Maps API - Restaurants](https://github.com/juliolimoli/data-cloud-project-scheduler)
+  <a href="https://github.com/juliolimoli/data-cloud-project-scheduler"><h3>Google Maps API - Restaurants</h3></a>
 
    <h4> Built With:</h4>
+   <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge">
+   </div>
  </div>
 </div>
