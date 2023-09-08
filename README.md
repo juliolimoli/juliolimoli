@@ -35,6 +35,8 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 ### Cloud Platforms
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -42,7 +44,7 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 
 ### Data Visualization Tools and Services
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> 
+<img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge">
 
 
 ## Projects:
