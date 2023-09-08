@@ -15,14 +15,20 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 #### Python
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="64px" height="64px">
 
+#### Shell
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
 #### JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 #### SQL
 ![SQL](https://www.tutorialsteacher.com/Content/images/home/sql.png)
 
-#### HTML & CSS
-![HTML & CSS](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
+#### HTML
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+#### CSS
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 #### Node.js
 ![Node.js](https://nodejs.org/static/images/logo.svg)
@@ -46,7 +52,16 @@ I'm a Brazilian ![brazil-flag](https://user-images.githubusercontent.com/7183640
 ## Cloud Platforms
 
 ### AWS
-![AWS](https://d1.awsstatic.com/logos/aws-logo-lockup/badge-aws-logo-lockup-rgb.png)
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+
+### Data Visualization Tools and Services
+
+#### PowerBI
+<img href="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> 
+
+#### Looker Studio
+<img href="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> 
 
 
 ## Projects:
